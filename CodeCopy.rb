@@ -1,4 +1,4 @@
-+ def print_row(row)
++ def print_row(row) 
 +  guess = row[:guess]
 +  print "|#{guess[0]}|#{guess[1]}|#{guess[2]}|#{guess[3]}|      |\n"
 +end
